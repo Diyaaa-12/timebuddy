@@ -1,0 +1,6 @@
+{
+  "name": "TimeBuddy",
+  "description": "An AI productivity agent that proactively helps users plan and complete tasks before deadlines by generating prioritized daily schedules and reasoning about workload constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
